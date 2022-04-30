@@ -1,0 +1,28 @@
+#sendGoodBtn {
+	background-color:transparent;
+	border-radius:42px;
+    border-color: #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:50px 100px;
+    outline: none;
+    border: none;	
+}
+
+#sendBadBtn {
+	background-color:transparent;
+	border-radius:42px;
+    border-color: #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:50px 100px;
+    outline: none;
+    border: none;	
+}
+
